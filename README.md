@@ -95,9 +95,11 @@ LifeLink AI aims to make social impact:
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-
-_Add UI screenshots here_
+## 📸 Screenshots
+<img width="1487" height="960" alt="Screenshot from 2026-01-19 14-04-24" src="https://github.com/user-attachments/assets/6a072362-05ea-4d3e-97f6-b6b969b0fbdf" />
+<img width="1487" height="956" alt="Screenshot from 2026-01-19 14-05-16" src="https://github.com/user-attachments/assets/03ff69d6-5ea3-4838-88b5-7be665f45d1a" />
+<img width="1487" height="956" alt="Screenshot from 2026-01-19 14-06-17" src="https://github.com/user-attachments/assets/9198bdc2-70cb-4141-bf42-6fcd8f90f5de" />
+<img width="1487" height="956" alt="Screenshot from 2026-01-19 14-06-52" src="https://github.com/user-attachments/assets/cc44e48d-01ed-40e9-976f-b53158ab2456" />
 
 ---
 
