@@ -1,6 +1,6 @@
-# 🌍 LifeLink AI (LifeLink Plus)
+# 🌍 LifeLink+
 
-LifeLink AI is a modern, AI-powered web application built to promote **community welfare, healthcare support, and social impact**. It unifies blood donation, disaster relief, NGO funding, and volunteering into a single, accessible platform.
+LifeLink+ is a modern, AI-powered web application built to promote **community welfare, healthcare support, and social impact**. It unifies blood donation, disaster relief, NGO funding, and volunteering into a single, accessible platform.
 
 This project is designed as a **hackathon-winning MVP** with a strong focus on:
 - Real-world usability
